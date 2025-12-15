@@ -1,0 +1,1 @@
+// Interface, mirip dengan abstract class tpi semua field dan methodnya juga sebagai abstract
